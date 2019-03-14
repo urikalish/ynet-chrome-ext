@@ -1,0 +1,8 @@
+
+iframe,
+[class^="ads"],
+[class^="ftr_bottom_links"],
+[id^="ads"],
+[id^="buyandsave"] {
+	display: none !important;
+}

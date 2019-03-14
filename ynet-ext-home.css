@@ -1,0 +1,114 @@
+
+.B1:not(.headlines),
+.B2b,
+#c1_Hor,
+#c2_Hor,
+#c3_Hor,
+#c4_Hor,
+#c5_Hor,
+#c6_Hor,
+#shopping,
+#teaser-container,
+#maincontaner_new,
+#bigdealhomepage-1,
+#WinWinHP1024-1 {
+	display: none !important;
+}
+
+.news_ticker_iframe > iframe,
+.imAfloater iframe {
+	display: block !important;	
+}
+
+.news_ticker_iframe,
+.news_ticker_iframe > iframe {
+	background-color: #edc !important;
+}
+
+.pphp_menu ul,
+.thumbnails-c .trc_rbox_outer .trc_rbox_div,
+.homepagevideo-x6 .main,
+.myNetItemDetails1,
+.magazine_text_box {
+	background-color: #dcb !important;
+}
+
+.news_ticker_title,
+.str3s_small.str3s_type_small,
+.hpstrip_textbox,
+.MarketingCalcalist_3 .MCtitle {
+	background: none !important;
+	background-color: #ba9 !important;
+}
+
+.magazines1024 .magazines_items {
+	background-image: none !important;
+}
+
+#main > .area.content {
+	margin-top: 10px !important;
+}
+
+#F_Content > .block.B6 .block.B6:nth-child(3) {
+	position: relative !important;
+}
+
+#F_Content > .block.B6 .block.B6:nth-child(3) > .block.B3:nth-child(1) > .block.B3:nth-child(1) .element.B3.ghcite:nth-child(1) {
+	position: absolute !important;
+	top: 0 !important;
+	left: 505px !important;
+}
+
+#F_Content > .block.B6 .block.B6:nth-child(3) > .block.B3:nth-child(1) > .block.B3:nth-child(1) .element.B3.ghcite:nth-child(2) {
+	position: absolute !important;
+	top: 107px !important;
+	left: 505px !important;
+}
+
+#F_Content > .block.B6 .block.B6:nth-child(3) > .block.B3:nth-child(1) > .block.B3:nth-child(1) .element.B3.ghcite:nth-child(3) {
+	position: absolute !important;
+	top: 215px !important;
+	left: 505px !important;
+}
+
+#F_Content > .block.B6 .block.B6:nth-child(3) > .block.B3:nth-child(1) > .block.B3:nth-child(1) .element.B3.ghcite:nth-child(4) {
+	position: absolute !important;
+	top: 324px !important;
+	left: 505px !important;
+}
+
+#F_Content > .block.B6 .block.B6:nth-child(6) > .block:nth-child(7) > .block:nth-child(2) > .block:nth-child(1) > .block:nth-child(2),
+#F_Content > .block.B6 .block.B6:nth-child(6) > .block:nth-child(7) > .block:nth-child(2) > .block:nth-child(3) > .block:nth-child(2) {
+	margin-left: 10px !important;
+}
+
+#F_Content > .block.B6 .block.B6:nth-child(6) > .block:nth-child(7) > .block:nth-child(2),
+#F_Content > .block.B6 .block.B6:nth-child(6) > .block:nth-child(7) > .block:nth-child(2) > .block:nth-child(1) {
+	position: relative !important;
+	width: 980px !important;
+}
+
+#F_Content > .block.B6 .block.B6:nth-child(6) > .block:nth-child(7) > .block:nth-child(2) > .block:nth-child(4) > .block,
+#F_Content > .block.B6 .block.B6:nth-child(6) > .block:nth-child(7) > .block:nth-child(2) > .block:nth-child(5) > .block {
+	position: absolute !important;	
+}
+
+#F_Content > .block.B6 .block.B6:nth-child(6) > .block:nth-child(7) > .block:nth-child(2) > .block:nth-child(4) > .block:nth-child(1) {
+	top: 0 !important;
+	left: 660px !important;    
+}
+
+#F_Content > .block.B6 .block.B6:nth-child(6) > .block:nth-child(7) > .block:nth-child(2) > .block:nth-child(4) > .block:nth-child(2) {
+	top: 437px !important;
+	left: 640px !important;
+}
+
+#F_Content > .block.B6 .block.B6:nth-child(6) > .block:nth-child(7) > .block:nth-child(2) > .block:nth-child(5) > .block:nth-child(1) {
+	top: 874px !important;
+	left: 660px !important;
+}
+
+#F_Content > .block.B6 .block.B6:nth-child(6) > .block:nth-child(7) > .block:nth-child(2) > .block:nth-child(5) > .block:nth-child(2) {
+	top: 1311px !important;
+	left: 640px !important;
+}
