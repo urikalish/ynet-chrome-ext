@@ -1,0 +1,9 @@
+[id="ads.skyscraper"],
+.layoutItem.banner,
+browsispot,
+.SiteVerticalArticleSocialShare_Wrapper,
+.taboola-general,
+.taboola-Div,
+.tbl-feed-container {
+    display: none !important;
+}

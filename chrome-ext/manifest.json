@@ -1,0 +1,44 @@
+{
+  "manifest_version": 3,
+  "version": "1.0.0",
+  "name": "Ynet Chrome Extension",
+  "description": "Ynet Chrome Extension",
+  "short_name": "YnetChromeExt",
+  "icons": {
+    "48": "img/ynet-ext.png",
+    "96": "img/ynet-ext.png",
+    "128": "img/ynet-ext.png"
+  },
+  "action": {
+    "default_title": "Ynet Chrome Extension",
+    "default_icon": "img/ynet-ext.png"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://www.ynet.co.il/home/*"
+      ],
+      "css" :[
+        "css/ynet-ext-common.css",
+        "css/ynet-ext-home.css"
+      ],
+      "js" :[
+        "js/ynet-ext-common.js",
+        "js/ynet-ext-home.js"
+      ]
+    },
+    {
+      "matches": [
+        "https://www.ynet.co.il/news/article/*"
+      ],
+      "css" :[
+        "css/ynet-ext-common.css",
+        "css/ynet-ext-article.css"
+      ],
+      "js" :[
+        "js/ynet-ext-common.js",
+        "js/ynet-ext-article.js"
+      ]
+    }
+  ]
+}
