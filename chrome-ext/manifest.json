@@ -16,28 +16,11 @@
   "content_scripts": [
     {
       "matches": [
-        "https://www.ynet.co.il/home/*"
-      ],
-      "css" :[
-        "css/ynet-ext-common.css",
-        "css/ynet-ext-home.css"
-      ],
-      "js" :[
-        "js/ynet-ext-common.js",
-        "js/ynet-ext-home.js"
-      ]
-    },
-    {
-      "matches": [
+        "https://www.ynet.co.il/home/*",
         "https://www.ynet.co.il/*/article/*"
       ],
       "css" :[
-        "css/ynet-ext-common.css",
-        "css/ynet-ext-article.css"
-      ],
-      "js" :[
-        "js/ynet-ext-common.js",
-        "js/ynet-ext-article.js"
+        "css/ynet-ext-style.css"
       ]
     }
   ]

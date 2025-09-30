@@ -1,0 +1,32 @@
+
+:root {
+    --color-bg: #fff;
+}
+
+body {
+    background-color: var(--color-bg) !important;
+}
+
+browsispot,
+iframe,
+ins,
+.butterflyButton,
+.extended-banner,
+.grecaptcha-badge,
+.layoutItem.banner,
+.layoutItem.top-ad,
+.SiteVerticalArticleSocialShare_Wrapper,
+.slotList.withImagePreview,
+.taboola-Div,
+.taboola-general,
+.taboola-general-feed,
+.tbl-feed-card,
+.tbl-feed-container,
+.tbl-trecs-container,
+.ynet-editable-footer,
+.yplus-promo-gallery,
+[id="ads.skyscraper"],
+[id="ads.top"],
+[class*=" strip-marketing-"] {
+    display: none !important;
+}

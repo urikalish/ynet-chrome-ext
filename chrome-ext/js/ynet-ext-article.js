@@ -1,3 +1,0 @@
-
-setTimeout(function() {
-}, 0);
