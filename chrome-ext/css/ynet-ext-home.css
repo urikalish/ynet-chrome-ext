@@ -1,12 +1,10 @@
-#ads.top,
 .extended-banner,
 .slotList.withImagePreview,
-.yplus-promo-gallery,
-.ynet-editable-footer,
-.taboola-general,
 .taboola-general-feed,
 .tbl-feed-card,
-[class^="strip-marketing-"],
-[class*=" strip-marketing-"] {
+.ynet-editable-footer,
+.yplus-promo-gallery,
+[class*=" strip-marketing-"],
+[id="ads.top"] {
     display: none !important;
 }

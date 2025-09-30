@@ -1,9 +1,13 @@
-[id="ads.skyscraper"],
-.layoutItem.banner,
 browsispot,
+ins,
+.grecaptcha-badge,
+.layoutItem.banner,
+.layoutItem.top-ad,
 .SiteVerticalArticleSocialShare_Wrapper,
-.taboola-general,
 .taboola-Div,
-.tbl-feed-container {
+.tbl-feed-container,
+.tbl-trecs-container,
+[id="ads.skyscraper"] {
     display: none !important;
+    transform: scale(0) !important;
 }
