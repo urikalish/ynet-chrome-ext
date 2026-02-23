@@ -25,8 +25,10 @@ ins,
 .tbl-trecs-container,
 .ynet-editable-footer,
 .yplus-promo-gallery,
+[class*="strip-marketing-"],
+div:has(> div > .yedioth-plus-with-paper),
+#INDmenu-btn-fixed,
 [id="ads.skyscraper"],
-[id="ads.top"],
-[class*=" strip-marketing-"] {
+[id="ads.top"] {
     display: none !important;
 }
